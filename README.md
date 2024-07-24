@@ -8,7 +8,7 @@ I'm a Python Developer with 10 years of experience in analytical and critical th
 - 💬 Ask me about Python, AWS, and DevOps.
 - 📫 How to reach me: [gtk2491@gmail.com](mailto:gtk2491@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy hiking and exploring new technologies.
+- ⚡ Fun fact: I enjoy hiking, cooking and exploring new technologies.
 
 ## Skills
 - **Languages**: Python, SQL, JavaScript, JSON
